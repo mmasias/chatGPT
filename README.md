@@ -8,17 +8,17 @@ xq se ha creado? Evolución?
 
 #### Orígenes (1940-1950)
 
-- Alan Turing propone la prueba de Turing (1950) como un criterio para la inteligencia artificial.
+- Alan Turing propone la [prueba de Turing](https://es.wikipedia.org/wiki/Prueba_de_Turing) (1950) como un criterio para la inteligencia artificial.
 - Desarrollo de máquinas y dispositivos electrónicos tempranos, como la máquina de Turing y la computadora ENIAC.
 
 #### Inicio de la IA como campo académico (1956):
 
-- Conferencia de Dartmouth, donde se acuña el término "inteligencia artificial".
+- [Conferencia de Dartmouth](https://es.wikipedia.org/wiki/Conferencia_de_Dartmouth), donde se acuña el término "inteligencia artificial".
 - Participación de figuras clave como Marvin Minsky, John McCarthy, Allen Newell y Herbert Simon.
 
 #### Enfoque en el simbolismo y la resolución de problemas (1950-1960):
 
-- Programas tempranos de IA, como el teorema de Samuel para el ajedrez y el programa General Problem Solver (GPS) de Newell y Simon.
+- Programas tempranos de IA, como los avances de [Arthur Samuel](https://es.wikipedia.org/wiki/Arthur_L._Samuel) relativos al ajedrez y el programa [General Problem Solver](https://es.wikipedia.org/wiki/General_Problem_Solver) (GPS) de Newell y Simon.
 - Representación del conocimiento y manipulación de símbolos.
 
 #### IA basada en conocimientos (1970-1980):
@@ -72,5 +72,6 @@ x|x
 
 ## Enlaces & bibliografía
 
+- https://learn.microsoft.com/es-es/training/paths/responsible-ai-business-principles/?WT.mc_id=academic-77998-cacaste
 - https://es.wikipedia.org/wiki/GPT-4
 - https://arxiv.org/abs/2303.08774
