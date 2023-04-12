@@ -2,7 +2,7 @@
 
 ## ¿Por qué?
 
-xq se ha creado? Evolución?
+xq se ha creado? 
 
 ### Evolución
 
@@ -53,8 +53,14 @@ xq se ha creado? Evolución?
 ## ¿Para qué?
 
 
+|||
+|-|-|
+Parecer ser humano|Generar conversaciones fluidas y coherentes, responder preguntas, ofrecer recomendaciones, etc. En general, proporcionar información útil a los usuarios en una amplia gama de contextos.
 
 ## ¿Cómo?
+
+### Casos de uso
+
 
 
 
