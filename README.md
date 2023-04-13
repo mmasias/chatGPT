@@ -28,7 +28,12 @@ Parecer ser humano|Generar conversaciones fluidas y coherentes, responder pregun
 
 ### Casos de uso
 
-
+|Caso de Uso|Descripción|Prompt|
+|-|-|-|
+**Preguntas y Respuestas**|La  base del trabajo de ChatGPT
+**Correcciones**||Corrige gramaticalmente el siguiente texto (y si no hay ningún error, dime “No hay errores”):
+**Resúmenes**||Hazme un resumen de este texto…<br>tl;dr:
+**Relevancia**||¿Cuál consideras que es la parte más importante de ese/este texto?
 
 
 ## A tener en cuenta
@@ -50,3 +55,8 @@ Parecer ser humano|Generar conversaciones fluidas y coherentes, responder pregun
 - [Microsoft: Principios y prácticas para una IA responsable](https://learn.microsoft.com/es-es/training/paths/responsible-ai-business-principles/?WT.mc_id=academic-77998-cacaste)
 - https://es.wikipedia.org/wiki/GPT-4
 - https://arxiv.org/abs/2303.08774
+
+### Repos con prompts
+
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- 
