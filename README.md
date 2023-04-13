@@ -28,6 +28,9 @@ Parecer ser humano|Generar conversaciones fluidas y coherentes, responder pregun
 
 ### Casos de uso
 
+> [📝](https://docs.google.com/presentation/d/1DeAjUGzE75wWZFIHuE7KzDVAa2DFfUJ_29sKKaL0Qwg/edit?usp=sharing)
+
+
 |Caso de Uso|Descripción|Prompt(s)|
 |-|-|-|
 **Preguntas y Respuestas**|La  base del trabajo de ChatGPT
@@ -48,12 +51,15 @@ Parecer ser humano|Generar conversaciones fluidas y coherentes, responder pregun
 **Creación de tablas / hojas de cálculo**||Hazme una tabla con cinco impresoras 3d, incluyendo nombre, fabricante y año de fabricación<hr>Dame los códigos de los aeropuertos del norte de españa en formato tabla.
 **Detección de sentimientos**||Clasifica el sentimiento en estos tweets:<br><br>1. "No soporto la tarea"<br>2. "Esto es una basura. Estoy aburrido 😠"<br>3. "¡No puedo esperar para Halloween!"<br>4. "Mi gato es adorable ❤️❤️"<br>5. "Odio el chocolate"
 **Extracción de información a partir de un bloque de texto**||Extrae el nombre del remitente y su dirección:<br><br>Estimada Teresa,<br>Fue genial participar en el seminario. Espero que la sesión de ChatGPT les haya resultado interesante.<br>Gracias por los enlaces. Te dejo la mi dirección de la Universidad: calle Isabel Torres 21, 39011, Santander.<br>Un saludo,<br>Manuel
-Traducciones más "abstractas"||Dame el código CSS del color azul del cielo al atardecer<br><br>Y de un rojo opaco y fresco?<hr>(testearlo [aquí](https://www.w3schools.com/colors/colors_picker.asp))<hr>Y el pantone?
+**Traducciones más "abstractas"**||Dame el código CSS del color azul del cielo al atardecer<br><br>Y de un rojo opaco y fresco?<hr>(testearlo [aquí](https://www.w3schools.com/colors/colors_picker.asp))<hr>¿Y el pantone?
+**Analogías**||Crea una analogía para la frase: las preguntas son como dardos
+**Paráfrasis**||Reescribe el siguiente email de un modo más formal:<br>Soy Roger Wilco de la Agencia Aeroespacial del Ayuntamiento de Santander.<br>Recordarle que Larry Laffer ha sido admitido para el curso de programación que se realizará de martes 11 a viernes 14 de abril en el Centro Cívico en horario de 9:30.<br>El curso es de martes a viernes. El aula está dotada con ordenador y no hace falta que lleven ningún tipo de material<br>Roger
 
+### GPT@Google
 
-
-
-
+||Hoja de cálculo|Documento|
+-|-|-|
+Usando [GPT for work](https://gptforwork.com/)|Con formulas, como:<br><br>=GPT()<br>=GPT_TRANSLATE()<br>=GPT_TABLE()<br>|Desde la barra lateral
 
 ## A tener en cuenta
 
