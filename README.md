@@ -76,7 +76,7 @@ Usando [GPT for work](https://gptforwork.com/)|Con formulas, como:<br><br>=GPT()
 
 ## Enlaces, bibliografía et al
 
-- [Entrevista a Sam Altman: CEO de OpenAI](https://youtu.be/L_Guz73e6fw) 🏆
+- [**Entrevista a Sam Altman: CEO de OpenAI**](https://youtu.be/L_Guz73e6fw) 🏆 2h:30m... **¡Hay que verla entera!** ([Opinión de los Microsiervos](https://www.microsiervos.com/archivo/ia/sam-altman-openai-lex-fridman-gpt4-chatgpt-futuro-ia.html) acerca de la entrevista)
 - [Microsoft: Principios y prácticas para una IA responsable](https://learn.microsoft.com/es-es/training/paths/responsible-ai-business-principles/?WT.mc_id=academic-77998-cacaste)
 - [Descripción de GPT4](https://es.wikipedia.org/wiki/GPT-4)
 - [Paper con el reporte técnico de GPT4](https://arxiv.org/pdf/2303.08774)
@@ -85,4 +85,4 @@ Usando [GPT for work](https://gptforwork.com/)|Con formulas, como:<br><br>=GPT()
 ### Repos con prompts
 
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
-- 
+- [En español](https://www.isocialweb.agency/prompts-espanol/)
