@@ -1,13 +1,5 @@
 # ChatGPT
 
-<div align="center">
-
-|  |  |
-|-|-|
-ChatGPT es un prototipo de bot conversacional de inteligencia artificial desarrollado en 2022 por OpenAI, especializado en mantener un diálogo.| ![](ChatGPT_logo.svg) |
-
-</div>
-
 ## ¿Por qué?
 
 |||
