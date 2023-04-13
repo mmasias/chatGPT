@@ -28,12 +28,21 @@ Parecer ser humano|Generar conversaciones fluidas y coherentes, responder pregun
 
 ### Casos de uso
 
-|Caso de Uso|Descripción|Prompt|
+|Caso de Uso|Descripción|Prompt(s)|
 |-|-|-|
 **Preguntas y Respuestas**|La  base del trabajo de ChatGPT
 **Correcciones**||Corrige gramaticalmente el siguiente texto (y si no hay ningún error, dime “No hay errores”):
-**Resúmenes**||Hazme un resumen de este texto…<br>tl;dr:
+**Resúmenes**||Hazme un resumen de este texto…<br><br>tl;dr:
 **Relevancia**||¿Cuál consideras que es la parte más importante de ese/este texto?
+**Contexto**|ChatGPT tiene en cuenta el contexto|
+**Propuestas de ajuste**||Reescríbelo de un modo más legible:…<br><br>Plantéame una redacción alternativa de…
+**Crear pseudocódigo**|A partir de un evento conocido<br><br>A partir de un proceso descrito en prosa||
+**Entender código**|A partir de un [código](https://github.com/mmasias/prg1-22-23/blob/main/temario/codigo/WhacAMole.java)|
+**Traducir**||Traduce el siguiente texto a inglés…<br><hr>Traduce el siguiente texto a 1. inglés, 2. frances, 3. chino, 4. euskera…<br><hr>Supongamos las siguientes tablas y sus campos, en una base de datos de Microsoft Access:<br><br>- Empleado (id, nombre, idDepartamento)<br>- Departamento (id, nombre, direccion)<br>- Salarios (id, idEmpleado, monto, fecha)<br><br>Proponme una consulta SQL que me devuelva los nombres de los departamentos que tienen más de 10 empleados en los últimos tres meses
+**Resumen estructurado**||Hazme una tabla de las frutas, indicando además color y sabor<br><br>Hay muchas frutas que se encontraron en el planeta recientemente descubierto Goocrux. Allí crecen los neoskizzles, que son de color púrpura y tienen sabor a dulce. También están los loheckles, que son una fruta de color azul grisáceo y son muy ácidos, un poco como un limón. Los pounits son de un color verde brillante y son más sabrosos que dulces. También hay muchas loopnovas que tienen un sabor rosa neón y saben a algodón de azúcar. Finalmente, existen las frutas llamadas glowls, que tienen un sabor muy ácido y amargo, que es ácido y cáustico, y un tinte naranja pálido.
+
+
+
 
 
 ## A tener en cuenta
