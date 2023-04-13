@@ -79,6 +79,9 @@ Usando [GPT for work](https://gptforwork.com/)|Con formulas, como:<br><br>=GPT()
 - [Descripción de GPT4](https://es.wikipedia.org/wiki/GPT-4)
 - [Paper con el reporte técnico de GPT4](https://arxiv.org/pdf/2303.08774)
 - [**Entrevista a Sam Altman: CEO de OpenAI**](https://youtu.be/L_Guz73e6fw) 🏆 2h:30m... **¡Hay que verla entera!** ([Opinión de los Microsiervos](https://www.microsiervos.com/archivo/ia/sam-altman-openai-lex-fridman-gpt4-chatgpt-futuro-ia.html) acerca de la entrevista)
+- Acerca de la explicabilidad de los algoritmos
+  - [La explicabilidad](https://ignaciogavilan.com/explicabilidad-de-la-inteligencia-artificial-que-es-lo-que-queremos-explicar/)
+  - [Los algoritmos sí saben explicarse](https://ignaciogavilan.com/los-algoritmos-de-inteligencia-artificial-si-saben-explicarse/)
 - [Microsoft: Principios y prácticas para una IA responsable](https://learn.microsoft.com/es-es/training/paths/responsible-ai-business-principles/?WT.mc_id=academic-77998-cacaste)
 - [GPT for work](https://gptforwork.com/), plugin de GPT para Google Sheet y Google Documents.
 
