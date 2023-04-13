@@ -1,5 +1,7 @@
 # ChatGPT
 
+![](ChatGPT_logo.svg)
+
 ## ¿Por qué?
 
 |||
