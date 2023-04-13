@@ -30,20 +30,23 @@ Parecer ser humano|Generar conversaciones fluidas y coherentes, responder pregun
 
 
 
+
 ## A tener en cuenta
 
 ### Otras AI
 
 |||
 |-|-|
-[Perplexity](https://www.perplexity.ai/)|Proyecto que utiliza el lenguaje natural para realizar búsquedas en la web de manera eficiente y precisa.
+[Perplexity](https://www.perplexity.ai/)|Proyecto que utiliza el lenguaje natural para realizar búsquedas en la web de manera eficiente y precisa
 [Stable Diffusion](https://stablediffusionweb.com/)|Modelo de difusión latente de texto a imagen capaz de generar imágenes fotorrealistas a partir de cualquier entrada de texto
-[MidJourney](https://www.midjourney.com/)|El ChatGPT de la generación de imágenes.
+[MidJourney](https://www.midjourney.com/)|El ChatGPT de la generación de imágenes
 [Blue Willow](https://www.bluewillow.ai/)|Alternativa gratuita (y muy buena!) a MidJourney
 [Creador imágenes Bing](https://www.bing.com/create)|Crear imágenes desde palabras con IA
+[NeuroFlash](https://app.neuro-flash.com/aiWriter)|Generador de texto a partir de palabras clave
 
-## Enlaces & bibliografía
+## Enlaces, bibliografía et al
 
-- https://learn.microsoft.com/es-es/training/paths/responsible-ai-business-principles/?WT.mc_id=academic-77998-cacaste
+- [Entrevista a Sam Altman: CEO de OpenAI](https://youtu.be/L_Guz73e6fw) 🏆
+- [Microsoft: Principios y prácticas para una IA responsable](https://learn.microsoft.com/es-es/training/paths/responsible-ai-business-principles/?WT.mc_id=academic-77998-cacaste)
 - https://es.wikipedia.org/wiki/GPT-4
 - https://arxiv.org/abs/2303.08774
