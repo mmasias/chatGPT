@@ -78,8 +78,9 @@ Usando [GPT for work](https://gptforwork.com/)|Con formulas, como:<br><br>=GPT()
 
 - [Entrevista a Sam Altman: CEO de OpenAI](https://youtu.be/L_Guz73e6fw) 🏆
 - [Microsoft: Principios y prácticas para una IA responsable](https://learn.microsoft.com/es-es/training/paths/responsible-ai-business-principles/?WT.mc_id=academic-77998-cacaste)
-- https://es.wikipedia.org/wiki/GPT-4
-- https://arxiv.org/abs/2303.08774
+- [Descripción de GPT4](https://es.wikipedia.org/wiki/GPT-4)
+- [Paper con el reporte técnico de GPT4](https://arxiv.org/pdf/2303.08774)
+- [GPT for work](https://gptforwork.com/), plugin de GPT para Google Sheet y Google Documents.
 
 ### Repos con prompts
 
