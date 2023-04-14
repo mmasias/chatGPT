@@ -93,3 +93,4 @@ Usando [GPT for work](https://gptforwork.com/)|Con formulas, como:<br><br>=GPT()
 
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [En español](https://www.isocialweb.agency/prompts-espanol/)
+- [Hilo de Twitter con prompts en español](https://twitter.com/IAViajero/status/1646920119698743301)
