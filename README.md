@@ -76,6 +76,7 @@ Usando [GPT for work](https://gptforwork.com/)|Con formulas, como:<br><br>=GPT()
 [Creador imágenes Bing](https://www.bing.com/create)|Crear imágenes desde palabras con IA
 [NeuroFlash](https://app.neuro-flash.com/aiWriter)|Generador de texto a partir de palabras clave
 [Map Deduce](https://mapdeduce.com/)|Resumen de documentos PDF
+[Slide AI](https://www.slidesai.io/es)|Creación de presentaciones
 
 ## Enlaces, bibliografía et al
 
