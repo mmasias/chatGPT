@@ -1,5 +1,7 @@
 # ChatGPT
 
+> ***Actualización*** La transcripción completa de la charla que se tuvo con ChatGPT durante la sesión [está aquí](sesionChatGPT.md).
+
 ## ¿Por qué?
 
 |||
