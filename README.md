@@ -68,7 +68,7 @@ Usando [GPT for work](https://gptforwork.com/)|Con formulas, como:<br><br>=GPT()
 ### ML (Machine learning) as a Service
 |||
 |-|-|
-[Amazon Bedrock](https://aws.amazon.com/es/bedrock/)|Servicio de algoritmos generativos
+[Amazon Bedrock](https://aws.amazon.com/es/bedrock/)|Servicio de algoritmos generativos, que amplia la cartera de servicios de [Machine Learning de las Amazon Web Services](https://aws.amazon.com/es/machine-learning/)
 
 ### Otras AI
 
