@@ -85,6 +85,7 @@ Usando [GPT for work](https://gptforwork.com/)|Con formulas, como:<br><br>=GPT()
 
 ## Enlaces, bibliografía et al
 
+- [Prompt engineering](https://www.saxifrage.xyz/post/prompt-engineering), *el arte de dar instrucciones a grandes modelos lingüísticos de tal manera que ofrezca los mejores resultados*
 - [Descripción de GPT4](https://es.wikipedia.org/wiki/GPT-4)
 - [Paper con el reporte técnico de GPT4](https://arxiv.org/pdf/2303.08774)
 - [**Entrevista a Sam Altman: CEO de OpenAI**](https://youtu.be/L_Guz73e6fw) 🏆 2h:30m... **¡Hay que verla entera!** ([Opinión de los Microsiervos](https://www.microsiervos.com/archivo/ia/sam-altman-openai-lex-fridman-gpt4-chatgpt-futuro-ia.html) acerca de la entrevista)
