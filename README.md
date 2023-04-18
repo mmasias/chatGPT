@@ -1,7 +1,6 @@
 # ChatGPT
 
-> Actualizada la sección de *Otras AI*
-> ***Actualización*** La transcripción completa de la charla que se tuvo con ChatGPT durante la sesión [está aquí](sesionChatGPT.md). / +Enlaces
+> Actualizada la sección de *Otras AI* <br><br> Incluida la transcripción completa de la charla que se tuvo con ChatGPT durante [la sesión en Maflow](sesionChatGPT.md). / +Enlaces
 
 ## ¿Por qué?
 
