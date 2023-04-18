@@ -1,18 +1,11 @@
 # ChatGPT
 
+> Actualizada la sección de *Otras AI*
 > ***Actualización*** La transcripción completa de la charla que se tuvo con ChatGPT durante la sesión [está aquí](sesionChatGPT.md). / +Enlaces
 
 ## ¿Por qué?
 
-|||
-|-|-|
-Orígenes (1940-1950)| Alan Turing propone la [prueba de Turing](https://es.wikipedia.org/wiki/Prueba_de_Turing) (1950) como un criterio para la inteligencia artificial / Desarrollo de máquinas y dispositivos electrónicos tempranos, como la máquina de Turing y la computadora ENIAC.
-Inicio de la IA como campo académico (1956)| [Conferencia de Dartmouth](https://es.wikipedia.org/wiki/Conferencia_de_Dartmouth), donde se acuña el término "inteligencia artificial" / Participación de figuras clave como Marvin Minsky, John McCarthy, Allen Newell y Herbert Simon.
-Enfoque en el simbolismo y la resolución de problemas (1950-1960)| Programas tempranos de IA, como los avances de [Arthur Samuel](https://es.wikipedia.org/wiki/Arthur_L._Samuel) relativos al ajedrez y el programa [General Problem Solver](https://es.wikipedia.org/wiki/General_Problem_Solver) (GPS) de Newell y Simon / Representación del conocimiento y manipulación de símbolos
-IA basada en conocimientos (1970-1980)|Sistemas expertos, como MYCIN y DENDRAL, que utilizan bases de conocimientos y reglas de inferencia / Desarrollo de lenguajes de programación de IA, como LISP y Prolog
-Aprendizaje automático y redes neuronales (1980-1990)|Algoritmos de aprendizaje supervisado, como el perceptrón multicapa y las máquinas de vectores de soporte / Retropropagación, un algoritmo eficiente para entrenar redes neuronales
-Agentes inteligentes y enfoques híbridos (1990-2000)|Combinación de técnicas de IA simbólica y conexionista / Desarrollo de agentes inteligentes y sistemas multiagente / IBM Deep Blue derrota al campeón mundial de ajedrez Garry Kasparov (1997).
-Aprendizaje profundo y big data (2010-presente)|Avances en el aprendizaje profundo, con redes neuronales convolucionales (CNN) y recurrentes (RNN) / Aplicaciones de IA en el reconocimiento de imágenes, el procesamiento del lenguaje natural y la generación de texto./ Modelos de lenguaje transformador, como GPT y BERT / Implementaciones de IA en la vida cotidiana, como asistentes virtuales, vehículos autónomos y sistemas de recomendación.
+Algo de [Historia](algoDeHistoria.md)
 
 ## ¿Qué?
 
@@ -30,8 +23,7 @@ Parecer ser humano|Generar conversaciones fluidas y coherentes, responder pregun
 
 ### Casos de uso
 
-> [📝](https://docs.google.com/presentation/d/1DeAjUGzE75wWZFIHuE7KzDVAa2DFfUJ_29sKKaL0Qwg/edit?usp=sharing)
-
+Los siguientes casos de uso se han preparado para la interacción con bots conversacional como ChatGPT. 
 
 |Caso de Uso|Descripción|Prompt(s)|
 |-|-|-|
@@ -56,6 +48,9 @@ Parecer ser humano|Generar conversaciones fluidas y coherentes, responder pregun
 **Traducciones más "abstractas"**||Dame el código CSS del color azul del cielo al atardecer<br><br>Y de un rojo opaco y fresco?<hr>(testearlo [aquí](https://www.w3schools.com/colors/colors_picker.asp))<hr>¿Y el pantone?
 **Analogías**||Crea una analogía para la frase: las preguntas son como dardos
 **Paráfrasis**||Reescribe el siguiente email de un modo más formal:<br>Soy Roger Wilco de la Agencia Aeroespacial del Ayuntamiento de Santander.<br>Recordarle que Larry Laffer ha sido admitido para el curso de programación que se realizará de martes 11 a viernes 14 de abril en el Centro Cívico en horario de 9:30.<br>El curso es de martes a viernes. El aula está dotada con ordenador y no hace falta que lleven ningún tipo de material<br>Roger
+
+> Version presentación: [📝](https://docs.google.com/presentation/d/1DeAjUGzE75wWZFIHuE7KzDVAa2DFfUJ_29sKKaL0Qwg/edit?usp=sharing)
+
 
 ### GPT@Google
 
