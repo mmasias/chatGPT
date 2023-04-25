@@ -84,6 +84,7 @@ Usando [GPT for work](https://gptforwork.com/)|Con formulas, como:<br><br>=GPT()
 
 ## Enlaces, bibliografía et al
 
+- [ChatGPT e inteligencia artificial en la educación superior : guía de inicio rápido](https://unesdoc.unesco.org/ark:/48223/pf0000385146_spa)
 - [Prompt engineering](https://www.saxifrage.xyz/post/prompt-engineering), *el arte de dar instrucciones a grandes modelos lingüísticos de tal manera que ofrezca los mejores resultados*
 - [Canal en Discord de AutoGPT](https://discord.com/invite/autogpt) 👀
 - [Descripción de GPT4](https://es.wikipedia.org/wiki/GPT-4)
