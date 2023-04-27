@@ -2,6 +2,9 @@
 
 > Actualizada la sección de *Otras AI* <br><br> Incluida la transcripción completa de la charla que se tuvo con ChatGPT durante [la sesión en Maflow](sesionChatGPT.md). / +Enlaces
 
+
+> ChatGPT ya permite seleccionar si se permite usar los textos del chat para entrenar a otras versiones, lo que debería resolver en los problemas de «privacidad» que se apuntaron al respecto. *ChatGPT > Perfil > Ajustes > Controles de Datos > chat.openai.com*
+
 ## ¿Por qué?
 
 Algo de [Historia](algoDeHistoria.md)
