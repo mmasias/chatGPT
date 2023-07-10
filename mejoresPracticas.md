@@ -17,6 +17,14 @@
 
 ### Pídele al modelo el que adopte un rol
 
+Especificar un rol o comportamiento permite al modelo el contestar con un tono especifico.
+
+|Cuando pida ayuda para escribir algo, responderás con un documento que contiene al menos una broma o comentario juguetón en cada párrafo.|
+|-|
+|Escribe una nota de agradecimiento a mi proveedor de pernos de acero por realizar la entrega a tiempo y con poca antelación. Esto nos permitió entregar un pedido importante.|
+
+[Link](https://chat.openai.com/share/d1ca302c-4da8-4ddd-a6e2-495b0e22c145)
+
 ### Divide y vencerás: parte la pregunta en bloques claros
 
 ### Especifica los pasos necesarios para completar un tarea
