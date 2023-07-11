@@ -9,3 +9,20 @@ IA basada en conocimientos (1970-1980)|Sistemas expertos, como MYCIN y DENDRAL, 
 Aprendizaje automático y redes neuronales (1980-1990)|Algoritmos de aprendizaje supervisado, como el perceptrón multicapa y las máquinas de vectores de soporte / Retropropagación, un algoritmo eficiente para entrenar redes neuronales
 Agentes inteligentes y enfoques híbridos (1990-2000)|Combinación de técnicas de IA simbólica y conexionista / Desarrollo de agentes inteligentes y sistemas multiagente / IBM Deep Blue derrota al campeón mundial de ajedrez Garry Kasparov (1997).
 Aprendizaje profundo y big data (2010-presente)|Avances en el aprendizaje profundo, con redes neuronales convolucionales (CNN) y recurrentes (RNN) / Aplicaciones de IA en el reconocimiento de imágenes, el procesamiento del lenguaje natural y la generación de texto./ Modelos de lenguaje transformador, como GPT y BERT / Implementaciones de IA en la vida cotidiana, como asistentes virtuales, vehículos autónomos y sistemas de recomendación.
+
+## Evolución
+
+| | | | | |
+|-|-|-|-|-|
+1997|IBM|Deep Blue|Ajedrez|Fuerza bruta de computación
+2004|IBM|Watson|Jeopardy!|Búsqueda
+2015|Google|DeepMind|Go|Redes neuronales, aprendizaje por refuerzo y deep learning
+2017|Carnegie Mellon|Libratus|Poker|Algoritmos de Machine Learning
+
+
+
+
+
+## Algunos servicios
+
+- [Lookout, visión asistida](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.reveal&hl=es&gl=US)
