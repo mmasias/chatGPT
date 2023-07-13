@@ -2,4 +2,4 @@
 
 ## Esquema 
 
-![](/imagenes/modelosUML/ruta.png)
+![](/imagenes/modelosUML/ruta.svg)
