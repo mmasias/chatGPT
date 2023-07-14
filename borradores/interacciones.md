@@ -10,3 +10,4 @@
 |Traducción especial|-|-|-|
 |Traducción especial II (videojuego)|-|-|-|
 |Resumen & análisis de respuestas|Recibir respuestas, analizar diversos elementos de su contenido|ChatGPT, Google Sheets, [GPT for work](https://gptforwork.com/)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/10ByjpaajfxlpBmXImmQ-wE1TqPYr9FbFr-FiNEkRTB8/edit?usp=sharing)|
+|Creación de un acrónimo|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/57e396ef-1732-4321-94c8-a143267c0b01)|
