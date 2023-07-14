@@ -30,6 +30,7 @@ Aplicaciones interdisciplinares|Los ingenieros de prompts pueden aplicar su expe
 
 ## ¿Cómo?
 
+- [Consideraciones de creación](ingenieriaDePrompts.consideraciones.md)
 - Caso de uso: desarrollo de una app
 
 ## Síntesis
