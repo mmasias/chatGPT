@@ -1,9 +1,8 @@
 # Ingeniería de Prompts
 
-
-
 ## ¿Por qué?
 
+- Porque hay que comunicarnos
 - Necesidad de mejor comunicación con los sistemas de AI.
 - Preparar el input adecuado para obtener mejores outputs.
 - 
@@ -57,6 +56,7 @@ Aprender una habilidad que en un futuro será considerada básica
 
 ## ¿Cómo?
 
+- [Anatomia de un prompt](ingenieriaDePrompts.anatomia.md)
 - [Técnicas y conceptos](ingenieriaDePrompts.tecnicas.md)
 - Casos de usos
 - Ejemplos empresariales

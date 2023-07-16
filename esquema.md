@@ -6,6 +6,7 @@
 - ¿Qué?
 - ¿Para qué?
 - ¿Cómo?
+- Glosario
 
 ## 02 - Ingenieria de Prompts
 
