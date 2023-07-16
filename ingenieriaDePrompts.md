@@ -71,6 +71,6 @@ Aprender una habilidad que en un futuro será considerada básica
 
 | | |
 |-|-|
-[OpenAI](https://openai.com/)|
+[OpenAI](https://openai.com/) / [❓](https://help.openai.com/en/)|
 [Prompt engineering institute](https://www.promptengineering.org/)|
 [Prompt Engineering for Everybody with ChatGPT and GPT4 - PacktPub]()|
