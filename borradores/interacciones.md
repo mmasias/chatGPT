@@ -11,3 +11,6 @@
 |Traducción especial II (videojuego)|-|-|-|
 |Resumen & análisis de respuestas|Recibir respuestas, analizar diversos elementos de su contenido|ChatGPT, Google Sheets, [GPT for work](https://gptforwork.com/)|[Hoja de cálculo](https://docs.google.com/spreadsheets/d/10ByjpaajfxlpBmXImmQ-wE1TqPYr9FbFr-FiNEkRTB8/edit?usp=sharing)|
 |Creación de un acrónimo|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/57e396ef-1732-4321-94c8-a143267c0b01)|
+|Creación de oferta de trabajo|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/903b886f-449a-4442-85a2-f20e2a7cbc4e)
+|Y vs LUEGO|-|-|[Y](https://chat.openai.com/share/de5d8a24-594a-45e1-a528-27fca6521fc6) / [LUEGO](https://chat.openai.com/share/17e92098-5a64-4655-873d-d78c4e27ed1b)
+|Listículos + LUEGO|-|-|[Transcripción: 🗒️](https://chat.openai.com/share/8f0c43ff-07be-4d53-93e4-ad79c3f8ab8a)
