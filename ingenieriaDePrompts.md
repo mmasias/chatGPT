@@ -60,6 +60,8 @@ Aprender una habilidad que en un futuro será considerada básica
 - [Técnicas y conceptos](ingenieriaDePrompts.tecnicas.md)
 - Casos de usos
 - Ejemplos empresariales
+- [Consideraciones de creación](ingenieriaDePrompts.consideraciones.md)
+- Caso de uso: desarrollo de una app
 
 ## Síntesis
 

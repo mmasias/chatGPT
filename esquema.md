@@ -1,17 +1,18 @@
 # Esquema
 
-## 00 - Introducción
+## 01 - Introducción
 
 - ¿Por qué?
 - ¿Qué?
 - ¿Para qué?
 - ¿Cómo?
 
-## 01 - 
+## 02 - Ingenieria de Prompts
 
 
-## 01 - 
 
-## 01 - 
+## 03 - Taller & Casos de Uso
 
-## 01 - 
+## 04 - Preguntas y respuestas
+
+
