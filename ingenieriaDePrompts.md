@@ -18,6 +18,8 @@ Los ingenieros de prompts resuelven el problema de guiar de manera efectiva a lo
 
 ## ¿Para qué?
 
+### General
+
 |Por un tema de|¿Para qué?|
 |-|-|
 Rendimiento|Los ingenieros de prompts ayudan a las empresas a obtener resultados óptimos de los sistemas de IA al diseñar indicaciones efectivas y refinar las estructuras de entrada. Esto asegura que los sistemas de IA generen respuestas relevantes, precisas y apropiadas al contexto para diversas aplicaciones.
@@ -28,9 +30,36 @@ Seguridad|Los ingenieros de prompts contribuyen a la seguridad y la integridad d
 Mejora continua|Los ingenieros de prompts monitorean el rendimiento del sistema de IA, los comentarios de los usuarios y las tendencias de la industria, realizando los ajustes y actualizaciones necesarias en las indicaciones y los componentes de IA para garantizar una mejora continua y adaptación a los cambiantes requisitos de los usuarios y los objetivos empresariales.
 Aplicaciones interdisciplinares|Los ingenieros de prompts pueden aplicar su experiencia en diversas industrias y áreas, como medicina, finanzas, educación, derecho, marketing y diseño, lo que permite a las empresas implementar soluciones de IA en áreas diversas y aprovechar nuevas oportunidades.
 
+
+### Individual
+
+|Por un tema de|¿Para qué?|
+|-|-|
+Mejorar la productividad
+Ser más creativo
+Mejorar la eficiencia en la resolución de problemas
+Ganar en adaptabilidad y versatilidad
+Aprender una habilidad que en un futuro será considerada básica
+
+
+## ¿Dónde?
+
+- Horizontales
+  - ChatGPT / Bard / Perplexity: *texto a texto*
+  - Dall-e / MidJourney / Stable Diffussion / BlueWillow: *texto a imagen*
+  - [Mubert](https://mubert.com/) [💻](/imagenes/mubert-text-to-audio.png) / et al: *texto a música*
+  - Texto a vídeo
+- Verticales
+  - Desarrollos propios
+    - [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg)
+    - Otros ejemplos
+
+
 ## ¿Cómo?
 
-- Caso de uso: desarrollo de una app
+- [Técnicas y conceptos](ingenieriaDePrompts.tecnicas.md)
+- Casos de usos
+- Ejemplos empresariales
 
 ## Síntesis
 
@@ -38,4 +67,8 @@ Aplicaciones interdisciplinares|Los ingenieros de prompts pueden aplicar su expe
 
 ## Bibliografía
 
-- 
+| | |
+|-|-|
+[OpenAI](https://openai.com/)|
+[Prompt engineering institute](https://www.promptengineering.org/)|
+[Prompt Engineering for Everybody with ChatGPT and GPT4 - PacktPub]()|
