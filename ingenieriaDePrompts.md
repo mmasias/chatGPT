@@ -5,9 +5,16 @@
 - Porque hay que comunicarnos
 - Necesidad de mejor comunicación con los sistemas de AI.
 - Preparar el input adecuado para obtener mejores outputs.
-- 
+
+|Ingeniería de Prompts|
+|-|
+La Ingeniería de Prompts se utiliza para optimizar la forma en que interactuamos con los modelos de lenguaje como GPT-3 o GPT-4. Aunque estos modelos son increíblemente potentes, no siempre entregan los resultados esperados debido a su entrenamiento generalizado. Por ello, aprender a diseñar "prompts" efectivos puede ayudar a obtener respuestas más útiles y específicas.
 
 ## ¿Qué?
+
+|[Anatomía de un Prompt](ingenieriaDePrompts.anatomia.md)|
+|-|
+***La Ingeniería de Prompts se refiere a la técnica de diseñar y formular preguntas o comandos (prompts) de manera eficiente para guiar a un modelo de lenguaje a entregar la respuesta deseada. Esto puede involucrar la experimentación con diferentes formas de formular una pregunta, agregar más contexto o especificar el formato de la respuesta deseada.***
 
 Un ingeniero de prompts es un profesional especializado en diseñar, optimizar y perfeccionar indicaciones o entradas para sistemas de IA, especialmente modelos generativos, para obtener respuestas precisas, relevantes y deseadas. 
 
@@ -17,7 +24,7 @@ Los ingenieros de prompts resuelven el problema de guiar de manera efectiva a lo
 
 ## ¿Para qué?
 
-### General
+***La Ingeniería de Prompts es útil para extraer el máximo valor de los modelos de lenguaje. Puede permitirnos obtener respuestas más precisas, generar texto más relevante, mejorar la coherencia de las respuestas y reducir la cantidad de información incorrecta o inútil. Esto es especialmente importante en aplicaciones como los chatbots, donde se necesita una interacción eficiente y precisa.***
 
 |Por un tema de|¿Para qué?|
 |-|-|
