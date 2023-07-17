@@ -12,7 +12,7 @@ La Ingeniería de Prompts se utiliza para optimizar la forma en que interactuamo
 
 ## ¿Qué?
 
-|[Anatomía de un Prompt](ingenieriaDePrompts.anatomia.md)|
+||
 |-|
 ***La Ingeniería de Prompts se refiere a la técnica de diseñar y formular preguntas o comandos (prompts) de manera eficiente para guiar a un modelo de lenguaje a entregar la respuesta deseada. Esto puede involucrar la experimentación con diferentes formas de formular una pregunta, agregar más contexto o especificar el formato de la respuesta deseada.***
 
