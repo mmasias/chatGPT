@@ -2,7 +2,7 @@
 
 ## ¿Por qué?
 
-[Introducción](intro.md)
+[Introducción](documentos/intro.md)
 
 ## ¿Qué?
 
