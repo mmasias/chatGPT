@@ -53,7 +53,7 @@ Aprender una habilidad que en un futuro será considerada básica
 - Horizontales
   - ChatGPT / Bard / Perplexity: *texto a texto*
   - [Dall-e](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98) / [MidJourney](https://docs.midjourney.com/docs/prompts) / Stable Diffussion / BlueWillow / [VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo): *texto a imagen*
-  - [Mubert](https://mubert.com/) [💻](/imagenes/mubert-text-to-audio.png) / et al: *texto a música*
+  - [Mubert](https://mubert.com/) [💻](/i../imagenes/mubert-text-to-audio.png/ et al: *texto a música*
   - Texto a vídeo
 - Verticales
   - Desarrollos propios
@@ -63,11 +63,11 @@ Aprender una habilidad que en un futuro será considerada básica
 
 ## ¿Cómo?
 
-- [Anatomia de un prompt](ingenieriaDePrompts.anatomia.md)
-- [Técnicas y conceptos](ingenieriaDePrompts.tecnicas.md)
+- [Anatomia de un prompt](anatomia.md)
+- [Técnicas y conceptos](tecnicas.md)
 - Casos de usos
 - Ejemplos empresariales
-- [Consideraciones de creación](ingenieriaDePrompts.consideraciones.md)
+- [Consideraciones de creación](consideraciones.md)
 - Caso de uso: desarrollo de una app
 
 ## Síntesis
