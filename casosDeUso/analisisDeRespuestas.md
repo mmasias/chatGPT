@@ -15,9 +15,10 @@ Diseñar y construir una solución
 
 ## ¿Cómo?
 
-- Google Forms
-- Google Sheets
-- ChatGPT API
+|Google| |ChatGPT|
+|-|-|-|
+Google Forms|[GPT for work](https://gptforwork.com/)|[ChatGPT API](https://platform.openai.com/)
+Google Sheets
 
 ## A tener en cuenta
 
