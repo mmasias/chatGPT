@@ -1,5 +1,7 @@
 # Interacciones (a.k.a. *los prompts*)
 
+> ***[MetaCasoDeUso](metaCasoDeUso.md)***
+
 |Caso|Breve descripción|Herramientas|Transcripción|
 |-|-|-|-|
 |Refinar presentación|Ensayo de un texto|ChatGPT - [Clipto](https://www.clipto.com/)|[Transcripción: 🗒️](https://chat.openai.com/share/417e6c5b-5cf4-406b-b3a0-9c63a8ef3cf2)|
