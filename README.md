@@ -12,8 +12,9 @@
 
 ## ¿Cómo?
 
-[Prompt](prompts.md) / [Ingenieria de Prompts](ingenieriaDePrompts.md) / [Buenas prácticas](ingenieriadePrompts.buenasPracticas.md) / [Taller](taller.md)
+- [Prompt](prompts.md) 
+- [Ingenieria de Prompts](ingenieriaDePrompts.md) 
+- [Buenas prácticas](ingenieriadePrompts.buenasPracticas.md) 
+- [Taller](taller.md)
+- [Comunidad](comunidad.md)
 
-## Esquema 
-
-![](/imagenes/modelosUML/ruta.svg)
