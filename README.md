@@ -14,7 +14,9 @@ Brindar a los profesionales una aproximación que permita la comprensión práct
 
 ## ¿Cómo?
 
-En este recorrido de tres sesiones, comenzaremos con una introducción a la IA y su estado actual, seguido de una inmersión en su aplicación en los dominios del negocio y el marketing. A través de escenarios prácticos, de la utilización de la herramienta de IA ChatGPT, de otras herramientas y de los propios casos que propongan los participantes, exploraremos cómo la tecnología puede ayudar en la toma de decisiones, aumentar la eficiencia operativa y mejorar la personalización del marketing y la experiencia del cliente. 
+1. Comenzaremos con una introducción a la IA y su estado actual, revisando implementaciones de diversos servicios y centrándonos en los modelos de lenguaje que implementan el chatbot como interface.
+1. Luego una (muy breve pero necesaria) base teórica en la que veremos prompts, ingenieria de prompts y buenas prácticas.
+1. Finalmente -y con esta base revisada- a través de diversos escenarios prácticos que harán uso de la herramienta de IA ChatGPT, de otras herramientas exploraremos cómo esta(s) tecnología(s) puede(n) ayudar a la mejora de la eficiencia. 
 
 - [Prompt](prompts/prompts.md) 
 - [Ingenieria de Prompts](ingenieriaDePrompts/README.md) 
