@@ -9,14 +9,19 @@
 
 ## ¿Qué?
 
+Proceso de alimentar a un sistema de inteligencia artificial con información que oriente sus respuestas. 
+
+En el caso de la ingeniería de prompts, nos referimos a las indicaciones o comandos iniciales que se proporcionan a un modelo de lenguaje para que genere respuestas o contenido de texto.
 
 ## ¿Para qué?
 
+Para comprender mejor la intención del usuario y generar respuestas más adecuadas.
+
+|Respuestas 
+|-|
+Más precisas
+Más coherentes
+Más enfocadas
 
 ## ¿Cómo?
 
-
-## A tener en cuenta
-
-
-## Enlaces externos & bibliografía

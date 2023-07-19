@@ -8,7 +8,7 @@
 
 ## ¿Qué?
 
-[Panorámica al mundo de las AIs](panorámica.md)
+[Panorámica al mundo de las AIs](documentos/panorámica.md)
 
 ## Para qué
 
