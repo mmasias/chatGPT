@@ -20,6 +20,6 @@ Además, así al resolverlo veremos de poner en práctica buenas prácticas de i
 
 |Buenas prácticas utilizadas|
 |-|
-[Priming](ingenieriaDePrompts.priming.md)
-[Divide y vencerás](ingenieriaDePrompts.divideVenceras.md)
+[Priming](/ingenieriaDePrompts/priming.md)
+[Divide y vencerás](/ingenieriaDePrompts/divideVenceras.md)
 
