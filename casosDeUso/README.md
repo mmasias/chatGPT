@@ -20,3 +20,4 @@
 
 - [Descrición de imagen](https://chat.openai.com/share/b55d8b96-f469-4f8a-966c-a7417af6248b) Usando un plugin compatible con GPT4
 - [Manual de estilo](https://chat.openai.com/share/edf36184-6936-4741-847a-54ad7cda6fdc)
+- [Listas de personas](https://docs.google.com/spreadsheets/d/165DnYz3crJugiWnKrc9OLPECBia9Nkx0u22IZqvdOco/edit?usp=sharing) ❗
