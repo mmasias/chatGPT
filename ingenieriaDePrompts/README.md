@@ -47,15 +47,9 @@ Mejorar la eficiencia en la resolución de problemas
 Ganar en adaptabilidad y versatilidad
 Aprender una habilidad que en un futuro será considerada básica
 
-
-## ¿Dónde?
-
-
-
-
 ## ¿Cómo?
 
-- Con lo que ya sabemos de [Prompts](/prompts)
+- Con lo que ya sabemos de [Prompts](/prompts/README.md)
 - Técnicas y conceptos
   - [Priming](priming.md)
   - x-Shot prompting
