@@ -1,5 +1,7 @@
 # Ingeniería de Prompts > Priming
 
+> *[Efecto relacionado con la memoria implícita por el cual la exposición a determinados estímulos influye en la respuesta que se da a estímulos presentados con posterioridad.](https://es.wikipedia.org/wiki/Primado_(psicolog%C3%ADa))*
+
 ## ¿Por qué?
 
 - Los modelos de lenguaje vienen pre entrenados, pueden dar respuestas.
@@ -13,15 +15,20 @@ Proceso de alimentar a un sistema de inteligencia artificial con información qu
 
 En el caso de la ingeniería de prompts, nos referimos a las indicaciones o comandos iniciales que se proporcionan a un modelo de lenguaje para que genere respuestas o contenido de texto.
 
+Esta podría ser cualquier cosa: desde la definición de un término, la descripción de una situación, o la aclaración de la intención de la pregunta.
+
 ## ¿Para qué?
 
 Para comprender mejor la intención del usuario y generar respuestas más adecuadas.
 
 |Respuestas 
 |-|
-Más precisas
-Más coherentes
-Más enfocadas
+Definir la precisión
+Afinar la intención de coherencia
+Más enfocadas a la intención de la pregunta
+
+Por ejemplo, si estamos pidiendo a la IA que genere un poema, podríamos usar el priming para especificar el tono (alegre, triste), el tema (amor, naturaleza), y el estilo (haiku, soneto) que queremos.
 
 ## ¿Cómo?
 
+\_2_DO_
