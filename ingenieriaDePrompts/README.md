@@ -63,12 +63,16 @@ Aprender una habilidad que en un futuro será considerada básica
 
 ## ¿Cómo?
 
-- [Anatomia de un prompt](anatomia.md)
+- [Anatomia de un prompt](../prompts/anatomia.md)
 - [Técnicas y conceptos](tecnicas.md)
+- [Ingenieria de prompts](ingenieria.md)
+  - Priming
+  - x-Shot prompting
+  - Chain of thought
+  - x-Shot & Chain of thought
+- [Consideraciones de creación](consideraciones.md)
 - Casos de usos
 - Ejemplos empresariales
-- [Consideraciones de creación](consideraciones.md)
-- Caso de uso: desarrollo de una app
 
 ## Síntesis
 
