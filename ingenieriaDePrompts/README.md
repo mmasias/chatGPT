@@ -55,10 +55,9 @@ Aprender una habilidad que en un futuro será considerada básica
 
 ## ¿Cómo?
 
-- [Anatomia de un prompt](../prompts/anatomia.md)
-- [Técnicas y conceptos](tecnicas.md)
-- [Ingenieria de prompts](ingenieria.md)
-  - Priming
+- Con lo que ya sabemos de [Prompts](/prompts)
+- Técnicas y conceptos
+  - [Priming](priming.md)
   - x-Shot prompting
   - Chain of thought
   - x-Shot & Chain of thought
