@@ -6,13 +6,20 @@ Me gusta crear acrónimos. Es una buena manera de fijar en la memoria un concept
 
 ## ¿Qué?
 
-Hace 13 años bauticé como PANAL a un servicio que actuaba como frontend a un campus virtual, utilizando las siglas de "Puerta de Acceso Normalizada a Aplicaciones LMS". Y llamé COLMENA a un framework para construir ERPs académicos, basándome en las siglas de "COmponentes Ligeros para el Modelado de ERPs de Naturaleza Académica". Al ERP de la Universidad le llamé GUIAA por las siglas de "Gestión Unificada de Investigación, Administración y Academia". Y otro ERP universitario lo bauticé como AGORA por las siglas de "Aplicación de Gestión y ORdenamiento Académico".
+|SIGLA|Significado|Uso|
+|-|-|-|
+|PANAL|Puerta de Acceso Normalizada a Aplicaciones LMS|Frontend campus virtual|
+|COLMENA|COmponentes Ligeros para el Modelado de ERPs de Naturaleza Académica|Framework de desarrollo|
+|GUIAA|Gestión Unificada de Investigación, Administración y Academia|ERP construido con COLMENA|
+|AGORA|Aplicación de Gestión y ORdenamiento Académico|ERP construido con COLMENA|
 
 ## ¿Para qué?
 
 Dado que para el seminario de inteligencia artificial estoy preparando algunos ejemplos, vamos a darles nombres.
 
 Además, así al resolverlo veremos de poner en práctica buenas prácticas de ingenieria de prompts. 
+
+Adicionalmente, vemos que contesta cada una de las IAs
 
 ## ¿Cómo?
 
