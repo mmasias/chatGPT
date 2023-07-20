@@ -16,7 +16,9 @@ Además, así al resolverlo veremos de poner en práctica buenas prácticas de i
 
 ## ¿Cómo?
 
-[Transcripción](https://chat.openai.com/share/57e396ef-1732-4321-94c8-a143267c0b01)
+- [Transcripción ChatGPT](https://chat.openai.com/share/57e396ef-1732-4321-94c8-a143267c0b01)
+- [Transcripción Perplexity](https://www.perplexity.ai/search/aeadc97e-3f6b-43f9-8a6c-d6305889b7ea?s=c)
+
 
 |Buenas prácticas utilizadas|
 |-|
