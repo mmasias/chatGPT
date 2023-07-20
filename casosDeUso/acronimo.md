@@ -8,10 +8,10 @@ Me gusta crear acrónimos. Es una buena manera de fijar en la memoria un concept
 
 |SIGLA|Significado|Uso|
 |-|-|-|
-|PANAL|Puerta de Acceso Normalizada a Aplicaciones LMS|Frontend campus virtual|
-|COLMENA|COmponentes Ligeros para el Modelado de ERPs de Naturaleza Académica|Framework de desarrollo|
-|GUIAA|Gestión Unificada de Investigación, Administración y Academia|ERP construido con COLMENA|
-|AGORA|Aplicación de Gestión y ORdenamiento Académico|ERP construido con COLMENA|
+|PANAL|**P**uerta de **A**cceso **N**ormalizada a **A**plicaciones **L**MS|Frontend campus virtual|
+|COLMENA|**CO**mponentes **L**igeros para el **M**odelado de **E**RPs de **N**aturaleza **A**cadémica|Framework de desarrollo|
+|GUIAA|**G**estión **U**nificada de **I**nvestigación, **A**dministración y **A**cademia|ERP construido con COLMENA|
+|AGORA|**A**plicación de **G**estión y **OR**denamiento **A**cadémico|ERP construido con COLMENA|
 
 ## ¿Para qué?
 
