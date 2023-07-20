@@ -4,9 +4,9 @@
 
 ### 🗒️ a 🗒️
 
-- ChatGPT
-- Bard
-- Perplexity
+- [ChatGPT](https://chat.openai.com/)
+- [Bard](https://bard.google.com/)
+- [Perplexity](https://www.perplexity.ai/)
 - [Claude](https://claude.ai/chats)
 
 ### 🗒️ a 🖼️
