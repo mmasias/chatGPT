@@ -1,6 +1,16 @@
-# Interacciones (a.k.a. *los prompts*)
+# Casos de uso
 
-> ***[MetaCasoDeUso](metaCasoDeUso.md)***
+
+|Caso de Uso|Breve descripción|
+|-|-|
+|[MetaCasoDeUso](metaCasoDeUso.md)|Organizar en casos de uso la presentación de los casos de uso
+|[Acrónimo](acronimo.md)|Creación guiada de un acrónimo|
+
+
+
+
+### *2DO:* Ir subiendo esto...
+
 
 |Caso|Breve descripción|Herramientas|Transcripción|
 |-|-|-|-|
