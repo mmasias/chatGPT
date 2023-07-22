@@ -9,4 +9,4 @@ https://www.enriquedans.com/2023/07/la-conduccion-autonoma-es-ya-una-realidad-qu
 - Humo
 - *Blockchain/Criptodivisas* / *Coach/Psicología* / 
 
-- 
+|![](/imagenes/bibliaChatGPT.png)|[⛪](https://learn.dariuslukas.academy/the-ultimate-bible/)|
