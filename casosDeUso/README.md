@@ -31,3 +31,7 @@
 - [Descrición de imagen](https://chat.openai.com/share/b55d8b96-f469-4f8a-966c-a7417af6248b) Usando un plugin compatible con GPT4
 - [Manual de estilo](https://chat.openai.com/share/edf36184-6936-4741-847a-54ad7cda6fdc)
 - [Listas de personas](https://docs.google.com/spreadsheets/d/165DnYz3crJugiWnKrc9OLPECBia9Nkx0u22IZqvdOco/edit?usp=sharing) ❗
+
+- [IdSw & dimensiones (creatividad)](https://chat.openai.com/share/e397db65-985a-4356-9b88-b4d2b3301721)
+- [Shoggoth tongue](https://chat.openai.com/share/6ced76cf-ce46-424b-a779-3dc0320b34be)
+- [Esquemas (ASCII, JSON, plantUML)](https://chat.openai.com/share/5ca0aa11-da9b-4640-ba3a-1dee13623e79)
