@@ -16,3 +16,7 @@ https://www.enriquedans.com/2023/07/la-conduccion-autonoma-es-ya-una-realidad-qu
 41 prompts por día
 5 prompts por hora
 1 prompt por 12 minutos
+
+## Qué
+
+![](/imagenes/modelosUML/componentes.svg)

@@ -30,3 +30,4 @@ Al finalizar este curso, se habrán visto un conjunto de casos de uso que se apo
 ## Bibliografía
 
 - 
+- [¿Quién teme al ChatGPT?](https://globernance.org/quien-teme-al-chatgpt/)
