@@ -33,6 +33,7 @@
 ## Verticales
 
 - [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg)
+- [Glass AI](https://glass.health/ai)
 - []()
 
 
