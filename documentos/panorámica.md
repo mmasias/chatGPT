@@ -1,5 +1,14 @@
 # Panorámica
 
+
+## Qué
+
+![](/imagenes/modelosUML/componentes.svg)
+
+|Datos|Algoritmo|Aplicación|
+|-|-|-|
+Los datos son la base de cualquier solución de inteligencia artificial. Los sistemas de IA aprenden y hacen predicciones a partir de los datos. Esto puede incluir datos estructurados (como bases de datos) y datos no estructurados (como texto, imágenes, audio, etc.). En el aprendizaje supervisado, los datos de entrenamiento son etiquetados para que la IA pueda aprender de ellos. En el aprendizaje no supervisado, los datos no están etiquetados y la IA intenta encontrar patrones y relaciones en los datos por sí misma.|El algoritmo de IA es la lógica o las reglas que la máquina sigue para aprender de los datos y tomar decisiones. Existen diferentes tipos de algoritmos de IA, incluyendo algoritmos de aprendizaje supervisado, aprendizaje no supervisado, aprendizaje por refuerzo, entre otros. Los algoritmos procesan los datos de entrada, extraen patrones y aprenden de ellos para hacer predicciones o tomar decisiones.|La aplicación es el medio a través del cual los usuarios interactúan con la inteligencia artificial. Esto puede tomar la forma de una interfaz de usuario en una página web, una aplicación móvil, un chatbot, un asistente virtual, un software de análisis de datos, entre otros. La aplicación toma las entradas del usuario, las procesa a través del algoritmo de IA utilizando los datos disponibles, y luego presenta los resultados al usuario.
+
 ## Horizontales
 
 ### 🗒️ a 🗒️
