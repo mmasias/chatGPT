@@ -3,7 +3,9 @@
 
 ## Qué
 
+<div align=center>
 ![](/imagenes/modelosUML/componentes.svg)
+</div>
 
 ### Componentes principales
 
