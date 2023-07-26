@@ -56,7 +56,7 @@ Aprender una habilidad que en un futuro será considerada básica
   - [Chain of thought](chainOfThought.md)
   - x-Shot & Chain of thought
 - [Consideraciones de creación](consideraciones.md)
-- Casos de usos
+- [Casos de usos](/casosDeUso/README.md)
 - Ejemplos empresariales
 
 ## Síntesis
