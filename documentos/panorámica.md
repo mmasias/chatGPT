@@ -24,16 +24,17 @@ Preprocesamiento y limpieza de datos|Los datos que alimentan los algoritmos de I
 Seguridad y privacidad|Los sistemas de IA deben ser diseñados y operados de manera que protejan la privacidad y seguridad de los datos, cumpliendo con todas las leyes y regulaciones aplicables.
 [Ética y sesgo](etica@AI.md)|Los sistemas de IA pueden ser susceptibles a sesgos, dependiendo de los datos con los que son entrenados. Por lo tanto, es crucial considerar cuestiones de equidad, transparencia y rendición de cuentas en el diseño y la implementación de estos sistemas.
 
-## Horizontales
+## ¿Para qué?
 
-### 🗒️ a 🗒️
+### Horizontales
+#### Generar texto
 
 - [ChatGPT](https://chat.openai.com/)
 - [Bard](https://bard.google.com/)
 - [Perplexity](https://www.perplexity.ai/)
 - [Claude](https://claude.ai/chats)
 
-### 🗒️ a 🖼️
+#### Generar imágenes
 
 - [Dall-e](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y/d959fd01-3eea-4b16-9472-e79ccb635e98)
 - [MidJourney](https://docs.midjourney.com/docs/prompts)
@@ -41,28 +42,22 @@ Seguridad y privacidad|Los sistemas de IA deben ser diseñados y operados de man
 - BlueWillow
 - [VisualChatGPT](https://stablediffusionweb.com/Visual-ChatGPT#demo)
 
-### 🗒️ a 🎼
+#### Generar música
 
 - [Mubert](https://mubert.com/)
 
-### 🗒️ a 🎥
+#### Generar vídeo
 
 
-### 🎼 a 🎼🎼
-
-- [Moises](https://moises.ai/)
-
-
-
-## Verticales
+### Verticales
 
 - [Jano](https://www.youtube.com/watch?v=fhoKnB6vwWg)
 - [Glass AI](https://glass.health/ai)
+- [Moises](https://moises.ai/)
 - []()
 
 
 
+## ¿Cómo?
 
-
-    
-    
+[Prompts](/prompts/README.md)
