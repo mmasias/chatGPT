@@ -1,13 +1,10 @@
-
-
-https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/
-https://www.enriquedans.com/2023/07/la-conduccion-autonoma-es-ya-una-realidad-que-genera-sus-resistencias.html
+# Intro
 
 - Aparece una *tecnología* distruptiva
-- Reacciones: Sorpresa, duda, miedo, excepticismo, negación
+- Reacciones: [Sorpresa, duda, miedo, excepticismo, negación](https://docs.google.com/presentation/d/1UscAlHfjGgg4pPzz_p0V1eX18R74DRlvTtMXsbLVtI0/edit?usp=sharing) 
 - Ver dónde se inserta
 - Humo
-- *Blockchain/Criptodivisas* / *Coach/Psicología* / 
+- *Blockchain / Criptodivisas* / *Coach/Psicología* / 
 
 |[⛪](https://learn.dariuslukas.academy/the-ultimate-bible/)
 |-|
@@ -17,3 +14,7 @@ https://www.enriquedans.com/2023/07/la-conduccion-autonoma-es-ya-una-realidad-qu
 41 prompts por día
 5 prompts por hora
 1 prompt por 12 minutos
+
+
+- https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/
+- https://www.enriquedans.com/2023/07/la-conduccion-autonoma-es-ya-una-realidad-que-genera-sus-resistencias.html
