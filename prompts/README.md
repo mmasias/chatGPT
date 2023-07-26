@@ -13,14 +13,19 @@ Muchas aplicaciones de LLMs como la generación de código, resúmenes y traducc
 
 ## ¿Qué?
 
+Un prompt básicamente se refiera a una instrucción o solicitud de información que se le da a un modelo de lenguaje. 
+
+Es una pregunta o un enunciado que inicia la conversación o solicita una respuesta del modelo. Por ejemplo, "¿Cuál es la capital de Francia?" o "Escribe un poema sobre la primavera".
 
 ## ¿Para qué?
 
+Los prompts se utilizan para interactuar con modelos de lenguaje AI y solicitar información específica o realizar tareas particulares. Proporcionan la dirección y el contexto necesarios para que la IA genere respuestas útiles y pertinentes.
 
 ## ¿Cómo?
 
-
-## A tener en cuenta
-
+||Claridad|Especificidad|Preparación|
+|-|-|-|-|
+|**Peor**|¿Cómo está el clima?|Escribe una historia|¿Qué es la fotosíntesis?|
+|**Mejor**|¿Cómo está el clima actual en Madrid?|Escribe una historia de misterio ambientada en el siglo XIX en Londres|Soy un estudiante de quinto grado y necesito entender qué es la fotosíntesis para mi clase de ciencias. ¿Puedes explicármelo de una manera que pueda entender fácilmente?|
 
 ## Enlaces externos & bibliografía
