@@ -28,4 +28,4 @@ Los prompts se utilizan para interactuar con modelos de lenguaje AI y solicitar 
 |**Peor**|¿Cómo está el clima?|Escribe una historia|¿Qué es la fotosíntesis?|
 |**Mejor**|¿Cómo está el clima actual en Madrid?|Escribe una historia de misterio ambientada en el siglo XIX en Londres|Soy un estudiante de quinto grado y necesito entender qué es la fotosíntesis para mi clase de ciencias. ¿Puedes explicármelo de una manera que pueda entender fácilmente?|
 
-## Enlaces externos & bibliografía
+- [Dimensiones de un ingeniero de software](https://chat.openai.com/share/f46981c4-00d5-46ec-9856-ab4988f55598)
