@@ -31,4 +31,5 @@ Por ejemplo, si estamos pidiendo a la IA que genere un poema, podríamos usar el
 
 ## ¿Cómo?
 
-\_2_DO_
+- [Acrónimo](/casosDeUso/acronimo.md)
+- 

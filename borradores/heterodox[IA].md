@@ -1,9 +1,10 @@
+# Cajón de sastre
+
 |Herramienta|Descripción|Función en la que destaca|
 |-|-|-|
-|Chat GPT|Motor de IA conversacional muy versátil y fácil de usar|Puede usarse junto con otras herramientas de IA para automatizar tareas|
-|Copy AI|Genera texto de calidad profesional|Escritura y redacción|
-|WriteSonic|Escritura automática de textos|Escritura y redacción|
-|Jasper|Asistente de escritura por IA|Escritura y redacción|
+|[Copy AI](https://www.copy.ai/)|Genera texto de calidad profesional|Escritura y redacción|
+|[WriteSonic](https://writesonic.com/)|Escritura automática de textos|Escritura y redacción|
+|[Jasper](https://www.jasper.ai/)|Asistente de escritura por IA|Escritura y redacción|
 |PepperType|Escritura automática|Escritura y redacción|
 |Headlime|Generador de titulares|Escritura y redacción|
 |MarkCopy|IA para redacción de copys publicitarios|Escritura y redacción|
