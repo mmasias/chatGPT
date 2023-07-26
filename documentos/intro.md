@@ -9,8 +9,9 @@ https://www.enriquedans.com/2023/07/la-conduccion-autonoma-es-ya-una-realidad-qu
 - Humo
 - *Blockchain/Criptodivisas* / *Coach/Psicología* / 
 
-|![](/imagenes/bibliaChatGPT.png)|[⛪](https://learn.dariuslukas.academy/the-ultimate-bible/)|
-|-|-|
+|[⛪](https://learn.dariuslukas.academy/the-ultimate-bible/)
+|-|
+|![](/imagenes/bibliaChatGPT.png)|
 10,000 prompts & comprobados
 8 meses x 30 días = 240 días
 41 prompts por día
