@@ -5,7 +5,7 @@
 
 <div align=center>
 
-    ![](/imagenes/modelosUML/componentes.svg)
+![](/imagenes/modelosUML/componentes.svg)
 
 </div>
 
