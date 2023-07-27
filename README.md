@@ -1,4 +1,4 @@
-# Seminario ChatGPT (o como se llame)
+# Seminario IdP
 
 > [Guía 📅](https://docs.google.com/spreadsheets/d/1CMCHoDKnVWJjKiB7Cp6_UR6JxROY0A3XASgdRtyVELc/edit?usp=sharing)
 
