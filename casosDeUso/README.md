@@ -10,7 +10,7 @@
 
 
 
-### *2DO:* Ir subiendo esto...
+### *2DO:* Ir convirtiendo esto en MDs independientes y conectados...
 
 
 |Caso|Breve descripción|Herramientas|Transcripción|
@@ -36,3 +36,4 @@
 - [IdSw & dimensiones (creatividad)](https://chat.openai.com/share/e397db65-985a-4356-9b88-b4d2b3301721)
 - [Shoggoth tongue](https://chat.openai.com/share/6ced76cf-ce46-424b-a779-3dc0320b34be)
 - [Esquemas (ASCII, JSON, plantUML)](https://chat.openai.com/share/5ca0aa11-da9b-4640-ba3a-1dee13623e79)
+- [Evolución de análisis](https://chat.openai.com/share/02a0fddd-807c-4a0e-bb79-367c2660abe4)
